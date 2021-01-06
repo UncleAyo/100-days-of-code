@@ -6,4 +6,5 @@
 ### Day 2: January 5, 2021
 -Learnt the basics of RegEx in python on https://www.freecodecamp.org/justayo. Also got to practice with it.
 
-
+### Day 3: January 6, 2021
+-Worked with websites and networking in Python using urllib,sockets and BeautifulSoup. Committed the test I ran to https://github.com/UncleAyo/python-projects/tree/main/Python_for_EverybodyPractice
