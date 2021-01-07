@@ -8,3 +8,6 @@
 
 ### Day 3: January 6, 2021
 -Worked with websites and networking in Python using urllib,sockets and BeautifulSoup. Committed the test I ran to https://github.com/UncleAyo/python-projects/tree/main/Python_for_EverybodyPractice
+
+### Day 4: January 7, 2021
+-Worked with xml AND HOW TO READ THEM IN PYTHON and how to load and edit .xml files in python. Committed the test I ran to https://github.com/UncleAyo/python-projects/tree/main/Python_for_EverybodyPractice
