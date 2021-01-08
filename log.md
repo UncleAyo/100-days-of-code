@@ -11,3 +11,6 @@
 
 ### Day 4: January 7, 2021
 -Worked with xml AND HOW TO READ THEM IN PYTHON and how to load and edit .xml files in python. Committed the test I ran to https://github.com/UncleAyo/python-projects/tree/main/Python_for_EverybodyPractice
+
+### Day 5: January 8, 2021
+-Did some practice on https://www.codewars.com, practiced Javascript(took me some time although it was Kyu 7) and Python(a quite easy Kyu 5).  
