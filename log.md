@@ -14,3 +14,6 @@
 
 ### Day 5: January 8, 2021
 -Did some practice on https://www.codewars.com, practiced Javascript(took me some time although it was Kyu 7) and Python(a quite easy Kyu 5).  
+
+### Day 6: January 11, 2021
+- Focused on learning how to work with APIs in python
