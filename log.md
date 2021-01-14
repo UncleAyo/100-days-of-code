@@ -17,3 +17,9 @@
 
 ### Day 6: January 11, 2021
 - Focused on learning how to work with APIs in python
+
+### Day 7: January 12, 2021
+- Focused on learning how to work with Objects and Classes in python
+
+### Day 8: January 14, 2021
+- Explored working with SQL and building a database.
