@@ -23,3 +23,6 @@
 
 ### Day 8: January 14, 2021
 - Explored working with SQL and building a database.
+
+### Day 9: January 15, 2021
+- Explored working with SQL a bit more and Began taking a look at the assignment https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter 
