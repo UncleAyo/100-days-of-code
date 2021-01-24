@@ -26,3 +26,7 @@
 
 ### Day 9: January 15, 2021
 - Explored working with SQL a bit more and Began taking a look at the assignment https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter 
+
+
+### Day 10: January 15, 2021
+- Worked on this https://leetcode.com/problems/sort-the-matrix-diagonally/ and also tried to solve a challenge in the codechef January cook-off, but failed. Hope to try again next month
