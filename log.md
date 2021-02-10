@@ -30,3 +30,6 @@
 
 ### Day 10: January 24, 2021
 - Worked on this https://leetcode.com/problems/sort-the-matrix-diagonally/ and also tried to solve a challenge in the codechef January cook-off, but failed. Hope to try again next month
+
+### Day 11: February 10, 2021
+-Worked on a project from freecode camp https://github.com/UncleAyo/PRACTICE-projects/tree/main/boilerplate-arithmetic-formatter
